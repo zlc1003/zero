@@ -6,4 +6,4 @@
 
 [点击跳转到我的GitHub](https://github.com/zlc1003)         [点击跳转到此网站GitHub](https://github.com/zlc1003/zero)
 
-[![](img/img.jpg "title")](https://code.xeuersi.com)
+[![](img/屏幕截图(2).png "title")](https://code.xeuersi.com)
