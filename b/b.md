@@ -5,8 +5,6 @@
 
 [warkdown表情](happy.md)
 
-🥇
-
 ---
 
 [返回主页](https://zlc1003.github.io/zero)
