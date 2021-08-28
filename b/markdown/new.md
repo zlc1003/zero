@@ -7,4 +7,4 @@
 
 ---
 
-## [返回主页](https://zlc1003.github.io/zero/b/b.html)
+## [返回](https://zlc1003.github.io/zero/b/b.html)
