@@ -5,6 +5,8 @@
 
 ## [warkdown表情](happy.md)
 
+## [warkdown基本教程](new1.md)
+
 ---
 
 ## [返回](https://zlc1003.github.io/zero/b/b.html)
