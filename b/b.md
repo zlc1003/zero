@@ -7,7 +7,7 @@
 
 ## [onshape(3d)](onshape/new.md)
 
-## [moakdown](markdown/new.md)
+## [markdown](markdown/new.md)
 
 ---
 
