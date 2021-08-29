@@ -1,10 +1,6 @@
 
 [![a](https://user-images.githubusercontent.com/89624840/131179808-b69fe017-c2bc-45a6-bc89-f83803047173.png "title")](https://code.xueersi.com/space/59783025)
 
-<head>
-    <title>button - 编程狮(w3cschool.cn)</title>
-</head>
-
 ---
 
 ## [教程](b/b.md)
