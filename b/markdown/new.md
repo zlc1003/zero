@@ -3,9 +3,9 @@
 
 ---
 
-## [warkdown表情](happy.md)
+## [Markdown表情](happy.md)
 
-## [warkdown基本教程](new2.md)
+## [Markdown基本教程](new2.md)
 
 ---
 
