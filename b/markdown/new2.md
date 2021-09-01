@@ -42,7 +42,7 @@ MarkDown真的很强大，我就不说背景之类的东西了，直接上自己
 超链接
 [文字](www.baidu.com)链接
 图片
-[](images.githubusercontent.com/89624840/131179808-b69fe017-c2bc-45a6-bc89-f83803047173.png)图片链接
+![zero](https://images.githubusercontent.com/89624840/131179808-b69fe017-c2bc-45a6-bc89-f83803047173.png)图片链接
 ```
 超链接
 
@@ -50,7 +50,7 @@ MarkDown真的很强大，我就不说背景之类的东西了，直接上自己
 
 图片
 
-[](https://images.githubusercontent.com/89624840/131179808-b69fe017-c2bc-45a6-bc89-f83803047173.png)图片链接
+![zero](https://images.githubusercontent.com/89624840/131179808-b69fe017-c2bc-45a6-bc89-f83803047173.png)图片链接
 
 ```
 链接一定要加https/http！！！
