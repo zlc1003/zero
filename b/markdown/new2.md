@@ -2,6 +2,26 @@
 ```
 MarkDown真的很强大，我就不说背景之类的东西了，直接上自己总结的干货！大体就两种用法，用于文字类和特殊用法类。
 ```
+#编辑器下载
+
+[macos](https://www.typora.io/download/Typora.dmg)
+
+[windows x32](https://www.typora.io/windows/typora-setup-ia32.exe)
+
+[windows x64](https://www.typora.io/windows/typora-setup-x64.exe)
+
+[linux](https://www.typora.io/#linux)
+
+```
+# or run:
+# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
+wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
+# add Typora's repository
+sudo add-apt-repository 'deb https://typora.io/linux ./'
+sudo apt-get update
+# install typora
+sudo apt-get install typora
+```
 ***
 ## 1.标题
 ```MarkDown
