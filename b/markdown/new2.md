@@ -1,7 +1,7 @@
 
 # MarkDown快速入门
 
-[toc]
+
 
 ```
 MarkDown真的很强大，我就不说背景之类的东西了，直接上自己总结的干货！大体就两种用法，用于文字类和特殊用法类。
@@ -16,16 +16,6 @@ MarkDown真的很强大，我就不说背景之类的东西了，直接上自己
 
 [linux](https://www.typora.io/#linux)
 
-```
-# or run:
-# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
-wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
-# add Typora's repository
-sudo add-apt-repository 'deb https://typora.io/linux ./'
-sudo apt-get update
-# install typora
-sudo apt-get install typora
-```
 ***
 ## 1.标题
 ```MarkDown
@@ -128,6 +118,7 @@ a
 ***
 记得一键三连！
 
-**:)**
+# **:)**
 
-[返回](https://zlc1003.github.io/zero/b/markdown/new.html)
+## [返回](https://zlc1003.github.io/zero/b/markdown/new.html)
+
