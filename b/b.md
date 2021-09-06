@@ -9,6 +9,8 @@
 
 ## [markdown](markdown/new.md)
 
+## [html](html/new.md)
+
 ---
 
 ## [返回](https://zlc1003.github.io/zero)
