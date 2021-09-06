@@ -91,6 +91,7 @@ MarkDown真的很强大，我就不说背景之类的东西了，直接上自己
 ## 5.提醒
 ```
 记得每行代码写完都enter一下！！
+尤其是github！！
 ```
 ```markdown
 有enter
@@ -117,7 +118,6 @@ a
 
 ***
 记得一键三连！
-
 # **:)**
 
 ## [返回](https://zlc1003.github.io/zero/b/markdown/new.html)
