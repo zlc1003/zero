@@ -16,6 +16,7 @@
 
 ## [如何在网页中加入<img xmlns:html="http://www.w3.org/1999/xhtml" src="https://zlc1003.github.io/apple.svg" data-l10n-name="a" class="a">?](logo.md)
 
+## [好看的404](404.no.md)
 ---
 
 ## [返回](https://zlc1003.github.io/zero/b/b.html)
